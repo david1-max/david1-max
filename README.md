@@ -50,8 +50,13 @@ An AI-powered recommender platform matching students with personalized governmen
 ## 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=david1-max&show_icons=true&theme=tokyonight" alt="David's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=david1-max&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=david1-max&show_icons=true&theme=tokyonight" alt="David's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=david1-max&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+### ⚡ Contribution Streak Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=david1-max&theme=tokyonight" alt="GitHub Streak Stats" height="180px"/>
 </p>
 
 ---
