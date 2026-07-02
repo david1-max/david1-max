@@ -46,15 +46,14 @@ An AI-powered recommender platform matching students with personalized governmen
 * **Tech Stack:** Python, Flask, Pandas.
 
 ---
-
 ## 📊 My GitHub Stats
 
 <p align="left">
   <a href="https://github.com/david1-max">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=david1-max&show_icons=true&theme=tokyonight" alt="David's GitHub Stats" height="180px"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=david1-max&theme=tokyonight" alt="David's GitHub Stats" height="180px"/>
   </a>
   <a href="https://github.com/david1-max">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=david1-max&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=david1-max&theme=tokyonight" alt="Top Languages" height="180px"/>
   </a>
 </p>
 
