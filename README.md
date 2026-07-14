@@ -1,4 +1,4 @@
-# Hi there, I'm David! 👋
+# Hi there, I'm Divyanshu Yadav! 👋
 
 I am a **Full-Stack Developer, AI/ML Enthusiast, and Web3 Developer** currently studying at **JK Lakshmipat University (JKLU)**. I build high-performance web applications, experiment with deep learning frameworks, and write smart contracts.
 
@@ -50,7 +50,7 @@ An AI-powered recommender platform matching students with personalized governmen
 
 <p align="left">
   <a href="https://github.com/david1-max">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=david1-max&theme=tokyonight" alt="David's GitHub Stats" height="180px"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=david1-max&theme=tokyonight" alt="Divyanshu's GitHub Stats" height="180px"/>
   </a>
   <a href="https://github.com/david1-max">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=david1-max&theme=tokyonight" alt="Top Languages" height="180px"/>
