@@ -66,7 +66,8 @@ An AI-powered recommender platform matching students with personalized governmen
 ---
 
 ## 📫 How to Reach Me
-* **LinkedIn:** [Your LinkedIn Profile URL]
+* **LinkedIn:** [Divyanshu Yadav](https://www.linkedin.com/in/divyanshu-yadav-dk1/)
+* **Portfolio:** [david1-max.github.io](https://david1-max.github.io)
 * **Email:** yadavdavid382@gmail.com
 
 *Feel free to explore my repositories or reach out if you'd like to collaborate on Web3 or AI/ML projects!*
