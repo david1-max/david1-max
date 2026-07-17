@@ -40,10 +40,15 @@ A low-latency, real-time web application supporting messaging and video calls.
 * **Key Features:** WebSockets for instant text messaging and signaling, and WebRTC for direct browser-to-browser audio/video streams.
 * **Tech Stack:** Node.js, Express, WebSockets, WebRTC, Vanilla JS.
 
-### 🏛️ [JanSahayak AI](https://github.com/david1-max/JanSahayak-) (Under Construction)
-An AI-powered recommender platform matching students with personalized government schemes based on their profile criteria.
-* **Key Features:** Dynamic profile parsing and semantic matching algorithm.
-* **Tech Stack:** Python, Flask, Pandas.
+### 📊 [Samiksha - JKLU Appraisal Portal](https://github.com/david1-max) (Private Repository)
+A student-centered feedback mechanism and appraisal management portal built during my university summer internship to digitize academic and administrative performance evaluations.
+* **Key Features:** Relational database mapping using Flask-SQLAlchemy, dynamic scoring calculations based on publication indexes, and automated report generators (Excel/PDF).
+* **Tech Stack:** Python, Flask, SQLAlchemy, SQLite, Vanilla JavaScript, HTML5/CSS3.
+
+### 🧠 [LeetCode Solutions](https://github.com/david1-max/leetcode-solutions)
+Daily repository tracking data structures and algorithms practice in Python to sharpen engineering problem-solving skills.
+* **Key Features:** Categorized Easy and Medium problems, optimized complexity approaches, and documented time/space complexity analysis.
+* **Tech Stack:** Python, Data Structures, Algorithms.
 
 ---
 ## 📊 My GitHub Stats
