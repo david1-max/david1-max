@@ -51,6 +51,26 @@ Daily repository tracking data structures and algorithms practice in Python to s
 * **Tech Stack:** Python, Data Structures, Algorithms.
 
 ---
+
+## 🏅 Certifications
+
+<p align="left">
+  <a href="https://www.hackerrank.com/certificates/62122ef2428b" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Intermediate)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Intermediate" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/bbf6076ae8f9" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-SQL_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Basic" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/c4a79f66666b" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Problem_Solving_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Problem Solving Basic" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/7fdc5f0187af" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Python_(Basic)-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Python Basic" />
+  </a>
+</p>
+
+---
+
 ## 📊 My GitHub Stats
 
 <p align="left">
